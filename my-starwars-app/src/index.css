@@ -6,9 +6,30 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: grey;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.jumbotron {
+  background-color: grey;
+}
+.jumbotron .container {
+  max-width: 100%;
+  background-color: white;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+.char-name {
+  color: yellow;
+}
+
+.user-details {
+  background-color: lightgrey;
+  border-radius: 20px;
+  padding: 10px;
 }
