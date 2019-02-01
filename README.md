@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) by Julien Guerin
 
-## Available Scripts
+## Process to launch the App
 
 In the project directory, you can run with : 
 ```
