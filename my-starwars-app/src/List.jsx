@@ -4,8 +4,9 @@ import CharInfo from './CharInfo';
 class List extends Component {
     render() {
         const people = this.props.people;
+        //console.log(this.props);
         return (
-            <div className="">
+            <div className="characters">
                 {
                     people.map((p) => {
                         console.log(p)
